@@ -4,7 +4,6 @@ import user from './user.json';
 // Components
 import Profile from './components/Profile/Profile';
 import Container from './components/Container/Container';
-// styles
 
 const App = () => {
   return (
